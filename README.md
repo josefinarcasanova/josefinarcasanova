@@ -22,7 +22,7 @@ Hi! I'm Josefina R. Casanova! Here's a bit about me:
 
 ## Contact me
 
-- 📧 [joesfinarcasanova@ibm.com](mailto:joesfinarcasanova@ibm.com)
+- 📧 [josefinarcasanova@ibm.com](mailto:josefinarcasanova@ibm.com)
 - 🔗 [/josefinarcasanova](https://www.linkedin.com/in/josefinarcasanova/)
 
 
