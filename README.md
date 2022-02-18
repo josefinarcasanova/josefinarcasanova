@@ -4,7 +4,7 @@ Hi! I'm Josefina R. Casanova! Here's a bit about me:
 
 - 🇺🇾 I'm from Uruguay
 - 📚 I'm a Systems Analyst, and future Computer Science Engineer
-- 🏢 I work as a Developer Advocate at IBM 👁️🐝Ⓜ️
+- 🏢 I'm the IBM Build Labs Tech Lead for SSA + MX 👁️🐝Ⓜ️
 - 👩‍🏫 I'm a College TA
 - 🎵 I like playing music
 
