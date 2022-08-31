@@ -3,22 +3,23 @@
 Hi! I'm Josefina R. Casanova! Here's a bit about me:
 
 - 🇺🇾 I'm from Uruguay
-- 📚 I'm a Systems Analyst, and future Computer Science Engineer
-- 🏢 I'm the IBM Build Labs Tech Lead for SSA + MX 👁️🐝Ⓜ️
+- 📚 I'm a Computer Science Engineer, with emphasis on Data & AI
+- 🏢 I'm Tech Project Lead for IBM Build Labs (SSA + MX) 👁️🐝Ⓜ️
 - 👩‍🏫 I'm a College TA
-- 🎵 I like playing music
+- 🎵 I play guitar and sing, from time to time
 
 ## Skills
 
  - ⚙️ Python, NodeJS, Java, C#, C++, SQL
- - ☁️ IBM Cloud, Docker, Kubernetes, Red Hat OpenShift, IBM Watson
+ - ☁️ IBM Cloud, Docker, Kubernetes, Red Hat OpenShift, IBM Watson Services
  - 🛠️ GitHub (duh!), Postman, VSCode
  - 💻 Linux, Windows, Mac
 
 ## Languages
 
- - :es: Spanish - Native Tongue
- - :uk: English - Bilingual Level
+ - :es: Spanish - Native
+ - :uk: English - Bilingual
+ - 🇧🇷 Portuguese - Basic
 
 ## Contact me
 
